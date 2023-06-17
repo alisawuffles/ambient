@@ -1,0 +1,15 @@
+Write pairs of sentences that are related to each other in the same way.
+
+Sentence 1: We have no evidence that the Japanese Emperor was personally involved in the decision to attack Pearl Harbor.
+Sentence 2: We have no evidence that the Japanese Emperor was not personally involved in the decision to attack Pearl Harbor.
+
+Sentence 1: It is important to recognize that in some cases, this system is being used to limit competition.
+Sentence 2: It is important to recognize that in some cases, this system is being used to enhance competition.
+
+Sentence 1: There is no doubt that the two leaders had some differences of opinion.
+Sentence 2: There is no doubt that the two leaders had some of the same opinions.
+
+Sentence 1: There is no doubt that, at the time, there was some anger at the government for not being more supportive of the war effort.
+Sentence 2: There is no doubt that the government was supporting the war effort.
+
+Sentence 1:

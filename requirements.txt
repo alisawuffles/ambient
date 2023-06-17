@@ -1,0 +1,15 @@
+tqdm==4.65.0
+pandas==1.2.4
+numpy==1.24.3
+torch==2.0.0
+transformers==4.28.1
+matplotlib==3.5.1
+matplotlib-venn==0.11.6
+click==7.1.2
+seaborn==0.11.2
+openai==0.27.0
+tenacity==8.2.2
+scikit-learn==0.24.2
+requests==2.29.0
+scipy==1.5.2
+statsmodels==0.13.5
