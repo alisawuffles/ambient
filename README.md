@@ -1,6 +1,6 @@
 # AmbiEnt
 
-This repository contains the code and data for [We're Afraid Language Models Aren't Modeling Ambiguity](https://arxiv.org/abs/2304.14399).
+This repository contains the code and data for [We're Afraid Language Models Aren't Modeling Ambiguity](https://aclanthology.org/2023.emnlp-main.51/), published at EMNLP 2023.
 
 If you have any questions, please feel free to create a Github issue or reach out to the first author at [alisaliu@cs.washington.edu](alisaliu@cs.washington.edu).
 
@@ -21,11 +21,16 @@ For examples of how scripts are used, please see `scripts/`.
 ## Citation
 If our work is useful to you, you can cite us with the following BibTex entry!
 ```
-@misc{liu-etal-2023-afraid,
-    title = "We're Afraid Language Models Aren't Modeling Ambiguity",
+@inproceedings{liu-etal-2023-afraid,
+    title = "We{'}re Afraid Language Models Aren{'}t Modeling Ambiguity",
     author = "Alisa Liu and Zhaofeng Wu and Julian Michael and Alane Suhr and Peter West and Alexander Koller and Swabha Swayamdipta and Noah A. Smith and Yejin Choi",
-    month = apr,
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
     year = "2023",
-    url = "https://arxiv.org/abs/2304.14399",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.51",
+    doi = "10.18653/v1/2023.emnlp-main.51",
+    pages = "790--807",
 }
 ```
