@@ -34,3 +34,5 @@ If our work is useful to you, you can cite us with the following BibTex entry!
     pages = "790--807",
 }
 ```
+## License
+AmbiEnt is licensed under CC BY 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
